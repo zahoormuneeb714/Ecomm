@@ -99,7 +99,7 @@ export const Ecomm = () => {
         <>
             <div>
                 <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", padding: "10px 20px" }} className='header'>
-                    <h1 className='total-items'> <div>{showCart ? "Cart Items" : "Total Items"}</div> <div className='count'>{showCart && cart.length > 0 ? cart.length : products.length}</div></h1>
+                    <h1 className='total-items'> <div>{showCart ? "Cart Items" : "Total Items"}</div> <div className='count'>{showCart ? cart.length : products.length}</div></h1>
                     <div style={{ display: "flex", gap: "10px" }} className='options'>
                         <ToggleTheme />
                         <div style={{ display: "flex", gap: "10px", justifyContent: "center", alignItems: "center" }}>
