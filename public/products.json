@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Air Max",
+        "price": 120,
+        "category": "Shoes",
+        "isAvailable": false
+    },
+    {
+        "id": 2,
+        "name": "Adidas Ultraboost",
+        "price": 150,
+        "category": "Shoes",
+        "isAvailable": true
+    },
+    {
+        "id": 3,
+        "name": "Puma Running Shoes",
+        "price": 95,
+        "category": "Shoes",
+        "isAvailable": true
+    },
+    {
+        "id": 4,
+        "name": "Levi's Jeans",
+        "price": 60,
+        "category": "Clothing",
+        "isAvailable": true
+    },
+    {
+        "id": 5,
+        "name": "Zara T-Shirt",
+        "price": 25,
+        "category": "Clothing",
+        "isAvailable": true
+    },
+    {
+        "id": 6,
+        "name": "H&M Hoodie",
+        "price": 40,
+        "category": "Clothing",
+        "isAvailable": false
+    },
+    {
+        "id": 7,
+        "name": "Apple AirPods",
+        "price": 200,
+        "category": "Electronics",
+        "isAvailable": true
+    },
+    {
+        "id": 8,
+        "name": "Samsung Buds",
+        "price": 120,
+        "category": "Electronics",
+        "isAvailable": true
+    },
+    {
+        "id": 9,
+        "name": "Sony WH-1000XM5",
+        "price": 300,
+        "category": "Electronics",
+        "isAvailable": false
+    },
+    {
+        "id": 10,
+        "name": "Woodland Boots",
+        "price": 110,
+        "category": "Shoes",
+        "isAvailable": true
+    },
+    {
+        "id": 11,
+        "name": "Uniqlo Jacket",
+        "price": 80,
+        "category": "Clothing",
+        "isAvailable": true
+    },
+    {
+        "id": 12,
+        "name": "Apple Watch SE",
+        "price": 250,
+        "category": "Electronics",
+        "isAvailable": true
+    },
+    {
+        "id": 13,
+        "name": "Canon DSLR Camera",
+        "price": 550,
+        "category": "Electronics",
+        "isAvailable": false
+    },
+    {
+        "id": 14,
+        "name": "Nike Socks",
+        "price": 15,
+        "category": "Clothing",
+        "isAvailable": true
+    },
+    {
+        "id": 15,
+        "name": "Crocs Sandals",
+        "price": 45,
+        "category": "Shoes",
+        "isAvailable": true
+    },
+    {
+        "id": 16,
+        "name": "Formal Leather Shoes",
+        "price": 90,
+        "category": "Shoes",
+        "isAvailable": false
+    },
+    {
+        "id": 17,
+        "name": "Gucci Sunglasses",
+        "price": 320,
+        "category": "Accessories",
+        "isAvailable": true
+    },
+    {
+        "id": 18,
+        "name": "Apple MacBook Pro",
+        "price": 1800,
+        "category": "Electronics",
+        "isAvailable": true
+    },
+    {
+        "id": 19,
+        "name": "H&M Cap",
+        "price": 20,
+        "category": "Accessories",
+        "isAvailable": false
+    },
+    {
+        "id": 20,
+        "name": "Zara Scarf",
+        "price": 30,
+        "category": "Accessories",
+        "isAvailable": true
+    },
+    {
+        "id": 21,
+        "name": "Nike Dri-FIT Shirt",
+        "price": 35,
+        "category": "Clothing",
+        "isAvailable": true
+    }
+]

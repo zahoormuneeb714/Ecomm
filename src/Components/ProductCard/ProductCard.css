@@ -1,0 +1,62 @@
+.product-card {
+  background-color: inherit;
+  color: inherit;
+  width: 20%;
+  border: 2px solid var(--ecomm);
+  border-radius: 10px;
+  list-style: none;
+  padding: 1rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.226);
+}
+.product-card .product-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+.product-card .category,
+.product-card .stocked {
+  font-size: 0.7rem;
+  padding: 5px 8px;
+  margin-bottom: 0.5rem;
+  border-radius: 20px;
+}
+.product-card .category {
+  background-color: var(--ecomm);
+  color: #111;
+}
+.product-card .stocked {
+  color: white;
+  position: relative;
+  right: -10%;
+  top: -1.5rem;
+  text-transform: capitalize;
+}
+/* ProductCard.css */
+.stocked.available {
+  background-color: rgb(0, 108, 197);
+  color: white;
+}
+
+.stocked.unavailable {
+  background-color: red;
+  color: white;
+}
+
+.product-card .name {
+  font-size: 1.5rem;
+}
+.product-card .price {
+  margin: 1rem 0;
+  display: block;
+}
+
+.product-card button {
+  float: right;
+}
+
+@media (max-width: 768px) {
+  .product-card {
+    width: 100%;
+  }
+}
